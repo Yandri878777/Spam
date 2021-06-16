@@ -24,14 +24,15 @@ Medium spammers dengan 30 Tools Spammers (SMS,Call,Wa).
 - cairin
 - kredito
 - kreditpedia
-- bocil
-- duitqu
+
+j
+
 - primacash
 - temanprima
 - maripinjam
 - sobatbangun
 ```
-# Requirements
+
 ```
 requests
 ```
@@ -45,3 +46,4 @@ $ pip2 install requests
 $ python2 main.py
 ```
 Ketik ```git pull``` untuk mengupdate script
+https://github.com/Yandri878777/SpaT
